@@ -16,6 +16,12 @@ npm npm init -y
 ```bash
 npm install --save shitsandgrins
 ```
+- To run the application, enter the following command
+
+```bash
+node FlashCards.js
+```
+
 
 # Support
 
