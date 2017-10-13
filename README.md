@@ -1,5 +1,5 @@
 # Flashcards
-Flashcard Generator - Command Line Application
+## Flashcard Generator Application which creates Basic Flashcards and Cloze Flashcards - (Command Line Application)
 
 - Created by William Rainaud 
 - email: wrainaud@outlook.com
